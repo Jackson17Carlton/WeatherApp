@@ -1,0 +1,6 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-02-22 09:49:01.996005-0600 WeatherMap[61617:29546893] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=61617
+2019-02-22 09:49:01.996560-0600 WeatherMap[61617:29546893] SecTaskCopyDebugDescription: WeatherMap[61617]/0#-1 LF=0
+2019-02-22 09:49:02.012887-0600 WeatherMap[61617:29546893] libMobileGestalt MobileGestalt.c:890: MGIsDeviceOneOfType is not supported on this platform.
+2019-02-22 09:49:02.158463-0600 WeatherMap[61617:29546893] [logging] table "WeatherForecast" already exists
+2019-02-22 09:49:02.272003-0600 WeatherMap[61617:29546893] Simulator user has requested new graphics quality: 10
